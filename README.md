@@ -98,10 +98,10 @@ Classification reports
 
 If you use this project in your research, please cite:
 
-@article{EmpoweringMedicalImageAnalysis2025,
+@article{EmpoweringMedicalImageAnalysis2024,
   author = {Vatsal Kumar Sharma and Aryan Jakhar and Aaroh Vats and Gurwinder Singh},
   title = {Empowering Medical Image Analysis: Unveiling Anomalies Through GANs and BiGAN’s Models},
-  year = {2025},
+  year = {2024},
   note = {Research article},
 }
 
